@@ -9,7 +9,7 @@ assignees: ''
 
 ### User Story
 
-**As a [user role], I want [desired feature] so that [reason/benefit].**
+**As a admin, I want improve and be detailed so that I will prepare this repo.**
 
 ### Acceptance Criteria
 - [ ] Criteria 1
