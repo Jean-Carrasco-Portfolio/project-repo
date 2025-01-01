@@ -1,7 +1,7 @@
 ---
 name: user-story-template
 about: Create a report to help us improve
-title: ''
+title: 'CS 360 - Jean Carrasco'
 labels: ''
 assignees: ''
 
